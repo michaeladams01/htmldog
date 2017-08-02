@@ -1,0 +1,32 @@
+
+
+.header {
+	background-color: #252839;
+	padding: 15px;
+}
+
+a {
+	padding: 5px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	color: #f2b632;
+
+}
+
+a:hover {
+	color: yellow;
+}
+
+.body {
+	text-align: center;
+}
+
+#idk {
+	font-size: 90px;
+}
+
+.grey {
+	font-family: monospace;
+	color: #b5b5b7;
+}
